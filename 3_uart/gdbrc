@@ -1,0 +1,4 @@
+file image
+target remote localhost:3335
+tui enable
+layout split
